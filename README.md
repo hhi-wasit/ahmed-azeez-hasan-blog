@@ -1,6 +1,6 @@
 # Ahmed Azeez Hasan — Public Health & Epidemiology
 
-This repository contains a static, responsive research portfolio and academic blog for **Ahmed Azeez Hasan**, an epidemiologist, public-health practitioner, and lecturer. The site was rebuilt from the supplied former GitHub Pages source and personalised using the supplied curriculum vitae.
+This repository contains a static, responsive research portfolio and academic blog for **Ahmed Azeez Hasan**, an epidemiologist, public-health practitioner, and lecturer. The site was rebuilt from the supplied former GitHub Pages source and personalised using the supplied curriculum vitae. All visual assets are bundled under `client/public/images` so this export can be published independently of the development environment.
 
 ## Local development
 

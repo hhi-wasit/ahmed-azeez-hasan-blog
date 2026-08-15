@@ -16,10 +16,11 @@ import {
   X,
 } from "lucide-react";
 
-const logoUrl = "/manus-storage/ahmed-azeez-surveillance-beacon-logo_65f23e48.png";
-const heroUrl = "/manus-storage/ahmed-azeez-hero-epidemiology_65247566.png";
-const researchUrl = "/manus-storage/ahmed-azeez-research-network_9e786b42.png";
-const communityUrl = "/manus-storage/ahmed-azeez-community-fieldnotes_790e4674.png";
+const siteBase = import.meta.env.BASE_URL;
+const logoUrl = `${siteBase}images/surveillance-beacon-logo.png`;
+const heroUrl = `${siteBase}images/hero-epidemiology.png`;
+const researchUrl = `${siteBase}images/research-network.png`;
+const communityUrl = `${siteBase}images/community-fieldnotes.png`;
 
 const researchAreas = [
   {
